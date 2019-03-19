@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>duzhanneng&#39;s Blog</title>
+  
+  <subtitle>Hello,world.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-03-19T08:37:32.353Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>duzhanneng</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2019第一篇博客，希望不是最后一篇</title>
+    <link href="http://yoursite.com/2019/01/06/2019%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2019/01/06/2019第一篇博客/</id>
+    <published>2019-01-06T06:37:04.000Z</published>
+    <updated>2019-03-19T08:37:32.353Z</updated>
+    
+    <content type="html"><![CDATA[<p>从今天开始写博客，说得我自己都不信~<br>+10086</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;从今天开始写博客，说得我自己都不信~&lt;br&gt;+10086&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="Others" scheme="http://yoursite.com/categories/Others/"/>
+    
+    
+      <category term="Others" scheme="http://yoursite.com/tags/Others/"/>
+    
+  </entry>
+  
+</feed>
