@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-04T08:21:49.500Z</updated>
+  <updated>2019-08-20T06:40:45.116Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>本地虚拟机搭建（window）</title>
+    <link href="http://yoursite.com/2019/07/04/%E6%9C%AC%E5%9C%B0%E6%90%AD%E5%BB%BA%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    <id>http://yoursite.com/2019/07/04/本地搭建虚拟机/</id>
+    <published>2019-07-04T08:36:46.000Z</published>
+    <updated>2019-08-20T06:40:45.116Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="一、VirtualBox安装（当然也可以选择VMware，这里主要举例VirtualBox）"><a href="#一、VirtualBox安装（当然也可以选择VMware，这里主要举例VirtualBox）" class="headerlink" title="一、VirtualBox安装（当然也可以选择VMware，这里主要举例VirtualBox）"></a>一、VirtualBox安装（当然也可以选择VMware，这里主要举例VirtualBox）</h4><p>1、到官网 <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" rel="noopener">https://www.virtualbox.org/wiki/Downloads</a> 下载VirtualBox 最新安装包并安装</p><p><img src="img01.jpg" alt=""></p><p>2、</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;一、VirtualBox安装（当然也可以选择VMware，这里主要举例VirtualBox）&quot;&gt;&lt;a href=&quot;#一、VirtualBox安装（当然也可以选择VMware，这里主要举例VirtualBox）&quot; class=&quot;headerlink&quot; title=&quot;
+      
+    
+    </summary>
+    
+      <category term="服务器" scheme="http://yoursite.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+      <category term="服务器" scheme="http://yoursite.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>2019第一篇博客，希望不是最后一篇</title>
